@@ -12,3 +12,6 @@ Function to perform dynamic prediction of survival outcome of a selected unit fr
 
 ## sample code.R
 R code to apply the proposed joint model for clustered data and to perform dynamic prediciton 
+
+## clustered_JM_2biom_correlated_application.stan
+The stan code for fitting the joint model  
